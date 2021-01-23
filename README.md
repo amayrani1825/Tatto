@@ -16,7 +16,7 @@
  
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <meta name="generator" content="Mobirise v5.2.0, mobirise.com">
+  <meta name="generator">
  
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
  
@@ -87,7 +87,7 @@
 
 
     <span class="navbar-caption-wrap">
-       <a class="navbar-caption text-black display-7" href="https://mobiri.se">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tu TATOO Creacion</a>
+       <a class="navbar-caption text-black display-7" href="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tu TATOO Creacion</a>
        </span>
  
 
