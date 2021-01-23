@@ -1,3 +1,9 @@
+PE html>
+
+
+
+
+
 
 <html  >
 
@@ -174,7 +180,9 @@
          <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>BIENVENIDO&nbsp;</strong></h1>
                
  
-                <p class="mbr-text mbr-fonts-style display-7">ESPERANDO QUE CON NUESTRO SITIO WEB CONOZCAS UN POCO MAS DE NOSOTROS Y NUESTRA COMUNIDAD.<br>EN NUESTRA PAGINA ESCONTRARA DISEÑOS Y DE IGUAL MANERA NOS PODRÁS CONTACTAR PARA NUESTROS TRABAJOS</p>
+                <p class="mbr-text mbr-fonts-style display-7">ESPERANDO QUE CON NUESTRO SITIO WEB CONOZCAS UN POCO MAS DE NOSOTROS Y NUESTRA COMUNIDAD.<br>EN NUESTRA 
+
+PAGINA ESCONTRARA DISEÑOS Y DE IGUAL MANERA NOS PODRÁS CONTACTAR PARA NUESTROS TRABAJOS</p>
          
 
 
@@ -231,7 +239,9 @@
      
 
                <p class="mbr-text mbr-fonts-style display-7">
-                        Este estilo es una de las mejores desempeñadas por nuestro tatuador JOSHEF ya que puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
+                        Este estilo es una de las mejores desempeñadas por nuestro tatuador JOSHEF ya que 
+
+puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
        
 
 
@@ -325,7 +335,9 @@
 
         <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>Trans Polka</strong></h3>
         
-            <p class="mbr-text mbr-fonts-style display-7">Es un trabajo muy complejo pero mejor realizado por EMMa ya que su creatividad y buen desempeño hace un buen diseño de ello</p>
+            <p class="mbr-text mbr-fonts-style display-7">Es un trabajo muy complejo pero mejor realizado por EMMa ya que su creatividad y buen desempeño hace un buen 
+
+diseño de ello</p>
           
 
       </div>
@@ -371,7 +383,9 @@
         
      <h6 class="item-subtitle mbr-fonts-style mt-1 display-7"><strong>Alice Carrie</strong></h6>
           
-             <p class="mbr-text mbr-fonts-style mt-3 display-7">Le encanta dibujar bocetos de figuras femeninas de estilo old-school, que prefiere hablar cara a cara con sus clientes (nada de emails) y que le encanta viajar para tatuar.</p>
+             <p class="mbr-text mbr-fonts-style mt-3 display-7">Le encanta dibujar bocetos de figuras femeninas de estilo old-school, que prefiere hablar cara a cara 
+
+con sus clientes (nada de emails) y que le encanta viajar para tatuar.</p>
    
 
                  </div>
@@ -402,7 +416,11 @@
       
         <h6 class="item-subtitle mbr-fonts-style mt-1 display-7"><strong>Megan Massacre</strong></h6>
               
-          <p class="mbr-text mbr-fonts-style mt-3 display-7">Su estilo combina imágenes oscuras y tétricas con colores fuertes y llamativos, esto la hace distinta al resto de los tatuadores convencionales. Su estilo se podría definir como el de un romanticismo post-apocalíptico , en el cual la carne muerta, el dolor, la sangre y el dolor se funden con el amor y la pasión por el placer y el deseo.<br>
+          <p class="mbr-text mbr-fonts-style mt-3 display-7">Su estilo combina imágenes oscuras y tétricas con colores fuertes y llamativos, esto la hace distinta al 
+
+resto de los tatuadores convencionales. Su estilo se podría definir como el de un romanticismo post-apocalíptico , en el cual la carne muerta, el dolor, la sangre y el 
+
+dolor se funden con el amor y la pasión por el placer y el deseo.<br>
                         </p>
       
 
@@ -435,7 +453,11 @@
                <h6 class="item-subtitle mbr-fonts-style mt-1 display-7"><strong>Oliver Peck</strong></h6>
             
   
-              <p class="mbr-text mbr-fonts-style mt-3 display-7">Vieja escuela tinta los diseños presentan una paleta de colores limitada pero sólida – generalmente negro, verde, amarillo y rojo – uso en negrita de grueso tinta Linework y diseño simple. Incluso con los avances en tatuaje pistolas y agujas, la aplicación tradicional es una forma audaz y reconocible tatuaje Arte</p>
+              <p class="mbr-text mbr-fonts-style mt-3 display-7">Vieja escuela tinta los diseños presentan una paleta de colores limitada pero sólida – generalmente 
+
+negro, verde, amarillo y rojo – uso en negrita de grueso tinta Linework y diseño simple. Incluso con los avances en tatuaje pistolas y agujas, la aplicación 
+
+tradicional es una forma audaz y reconocible tatuaje Arte</p>
          
 
 
@@ -635,7 +657,7 @@
 
           </section>
 
-  <section class="features19 cid-smRvm1n2F5" id="features20-12">
+<section class="features19 cid-smRvm1n2F5" id="features20-12">
 
     
    
@@ -653,7 +675,9 @@
 
            <h4 class="card-title mbr-fonts-style mb-4 display-2"><strong>Tambien consideramos</strong></h4>
            
-           <p class="mbr-text mbr-fonts-style mb-4 display-7">En nuestro local no solo nos dedicamos a tatuar si no también no preocupamos por el cuidado de tatuaje y de nuestros clientes para obtener un mejor resultado de nuestro trabajo.</p>
+           <p class="mbr-text mbr-fonts-style mb-4 display-7">En nuestro local no solo nos dedicamos a tatuar si no también no preocupamos por el cuidado de tatuaje y 
+
+de nuestros clientes para obtener un mejor resultado de nuestro trabajo.</p>
              
 
            
@@ -678,7 +702,9 @@
 
                <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Higiene</strong></h4>
             
-              <h5 class="icon-text mbr-black mbr-fonts-style display-4">Ten en cuenta que todo el material que entra en contacto con la piel o con la sangre debe ser desechable y debe estar esterilizado. Asimismo, el tatuador debe desinfectarse las manos antes de comenzar a trabajar y debe usar guantes de un solo uso.</h5>
+              <h5 class="icon-text mbr-black mbr-fonts-style display-4">Ten en cuenta que todo el material que entra en contacto con la piel o con la sangre debe ser 
+
+desechable y debe estar esterilizado. Asimismo, el tatuador debe desinfectarse las manos antes de comenzar a trabajar y debe usar guantes de un solo uso.</h5>
    
 
                  </div>
@@ -700,8 +726,14 @@
 
             <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Cuidados</strong></h4>
             
-            <h5 class="icon-text mbr-black mbr-fonts-style display-4">-Lavar con la mano cuidadosamente con agua tibia y jabón neutro o antiséptico,&nbsp; &nbsp; &nbsp;no frotar con esponjas o similar.
-       <div>-Secar con la toalla en forma de tampón.</div><div>-Aplicar la CREMA durante 15 días tres o cuatro veces al día.</div><div>-Al 4 o 5 día empezara el tatuaje como a  pelarse y se cubrirá con un piel muy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;finita, es normal, no arrancar las contras</div></h5>
+            <h5 class="icon-text mbr-black mbr-fonts-style display-4">-Lavar con la mano cuidadosamente con agua tibia y jabón neutro o antiséptico,&nbsp; &nbsp; 
+
+&nbsp;no frotar con esponjas o similar.
+<div>-Secar con la toalla en forma de tampón.</div><div>-Aplicar la CREMA durante 15 días tres o cuatro veces al 
+
+día.</div><div>-Al 4 o 5 día empezara el tatuaje como a pelarse y se cubrirá con un piel muy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;finita, es normal, no arrancar las 
+
+contras</div></h5>
           
 
 
@@ -721,7 +753,9 @@
                
           <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Recomendaciones</strong></h4>
              
-           <h5 class="icon-text mbr-black mbr-fonts-style display-4">-No te rasques<br>&nbsp;-no debes sumergirlo en agua hasta que se haya curado completamente<br>-Tampoco debes dejar tu tatuaje expuesto al sol<br>-Las tres primeras semanas evita que le dé el sol en su totalidad<br><br></h5>
+           <h5 class="icon-text mbr-black mbr-fonts-style display-4">-No te rasques<br>&nbsp;-no debes sumergirlo en agua hasta que se haya curado completamente<br>-
+
+Tampoco debes dejar tu tatuaje expuesto al sol<br>-Las tres primeras semanas evita que le dé el sol en su totalidad<br><br></h5>
          
 
            </div>
@@ -742,7 +776,11 @@
 
           <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Alimentos</strong></h4>
              
-           <h5 class="icon-text mbr-black mbr-fonts-style display-4">No ingerir bebidas alcohólicas durante 15 días<br>no ingerir carne procesada durante 15 días<br>Para acelerar el proceso de cicatrización de la piel alimentos más antioxidantes están: tomate, frutas rojas, frutas cítricas como naranja y acerola, y hierbas como ajo, cebolla y azafrán.<br><br><br></h5>
+           <h5 class="icon-text mbr-black mbr-fonts-style display-4">No ingerir bebidas alcohólicas durante 15 días<br>no ingerir carne procesada durante 15 
+
+días<br>Para acelerar el proceso de cicatrización de la piel alimentos más antioxidantes están: tomate, frutas rojas, frutas cítricas como naranja y acerola, y hierbas 
+
+como ajo, cebolla y azafrán.<br><br><br></h5>
          
 
            </div>
@@ -755,7 +793,9 @@
                 
             </div>
         </div>
-    </div>
+ 
+
+   </div>
 </section>
 
 
@@ -854,7 +894,9 @@
       <div class="map-wrapper col-12 col-md-6">
           
       <div class="google-map">
-     <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCt1265A4qvZy9HKUeA8J15AOC4SrCyZe4&amp;q=350 5th Ave, New York, NY 10118" allowfullscreen=""></iframe>
+     <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCt1265A4qvZy9HKUeA8J15AOC4SrCyZe4&amp;q=350 5th Ave, New York, 
+
+NY 10118" allowfullscreen=""></iframe>
 
 </div>
             </div>
@@ -867,7 +909,7 @@
 
 
 
-       
+         
 
             <section style="background-color: #fff; 
                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; 
@@ -877,15 +919,15 @@
                      align-items: center;
                      display: flex;">
 
-           <a href=""
+           <a href="https://mobirise.site/d"
               style="flex: 1 1;
               height: 3rem;
               padding-left: 1rem;"></a>
 
          <p style="flex: 0 0 auto; 
             margin:0;
-            padding-right:1rem;">Sanchez Meneses Amayrani - 
-        <a href="https:" style="color:#aaa;">Programacion Web</a>
+            padding-right:1rem;">SANCHEZ MENESES AMAYRANI - 
+        <a href="https://mobirise.site/l" style="color:#aaa;">Programacion Web</a>
         </p></section>
 
         <script src="assets/web/assets/jquery/jquery.min.js"></script> 
