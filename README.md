@@ -899,68 +899,6 @@ NY 10118" allowfullscreen=""></iframe>
 
 
 
-
-
-
-         <section class="social1 cid-smM9FIoamc" id="share1-o">
-    
-    
- 
-     
-
-    <div class="container">
-     
-         <div class="media-container-row">
-      
-         <div class="col-12">
-     
-    
-         <h3 class="mbr-section-title mb-3 align-center mbr-fonts-style display-2">
-          <strong>Síguenos&nbsp;en nuestras redes!</strong>
-  
-              </h3>
-          
-
-               <div>
-          
-
-
-          <div class="mbr-social-likes align-center">
-              
-          <span class="btn btn-social socicon-bg-facebook facebook m-2">
-              
-          <i class="socicon socicon-facebook"></i>
-          
-              </span>
-            
-
-            <span class="btn btn-social twitter socicon-bg-twitter m-2">
-               
-             <i class="socicon socicon-twitter"></i>
-           
-             </span>
-                        
-                    
-
-            <span class="btn btn-social pinterest socicon-bg-pinterest m-2">
-               
-             <i class="socicon socicon-pinterest"></i>
-              
-               </span>
-              
-           <span class="btn btn-social mailru socicon-bg-mail m-2">
-               
-
-             <i class="socicon socicon-mail"></i>
-             
-           </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
             <section style="background-color: #fff; 
                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; 
                      color:#aaa; 
