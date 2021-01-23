@@ -186,7 +186,7 @@ PAGINA ESCONTRARA DISEÑOS Y DE IGUAL MANERA NOS PODRÁS CONTACTAR PARA NUESTROS
 
 
        <div class="mbr-section-btn mt-3">
-   <a class="btn btn-success-outline display-4" href="https://mobirise.com"></a>
+   <a class="btn btn-success-outline display-4" href=""></a>
        </div>
             </div>
         </div>
@@ -454,9 +454,9 @@ dolor se funden con el amor y la pasión por el placer y el deseo.<br>
   
               <p class="mbr-text mbr-fonts-style mt-3 display-7">Vieja escuela tinta los diseños presentan una paleta de colores limitada pero sólida – generalmente 
 
-negro, verde, amarillo y rojo – uso en negrita de grueso tinta Linework y diseño simple. Incluso con los avances en tatuaje pistolas y agujas, la aplicación 
+       negro, verde, amarillo y rojo – uso en negrita de grueso tinta Linework y diseño simple. Incluso con los avances en tatuaje pistolas y agujas, la aplicación 
 
-tradicional es una forma audaz y reconocible tatuaje Arte</p>
+       tradicional es una forma audaz y reconocible tatuaje Arte</p>
          
 
 
@@ -918,7 +918,7 @@ NY 10118" allowfullscreen=""></iframe>
                      align-items: center;
                      display: flex;">
 
-           <a href="https://mobirise.site/d"
+           <a href=""
               style="flex: 1 1;
               height: 3rem;
               padding-left: 1rem;"></a>
@@ -926,7 +926,7 @@ NY 10118" allowfullscreen=""></iframe>
          <p style="flex: 0 0 auto; 
             margin:0;
             padding-right:1rem;">SANCHEZ MENESES AMAYRANI - 
-        <a href="https://mobirise.site/l" style="color:#aaa;">Programacion Web</a>
+        <a href=" style="color:#aaa;">Programacion Web</a>
         </p></section>
 
         <script src="assets/web/assets/jquery/jquery.min.js"></script> 
