@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <html  >
 
 
@@ -640,7 +635,7 @@
 
           </section>
 
-<section class="features19 cid-smRvm1n2F5" id="features20-12">
+  <section class="features19 cid-smRvm1n2F5" id="features20-12">
 
     
    
@@ -706,7 +701,7 @@
             <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Cuidados</strong></h4>
             
             <h5 class="icon-text mbr-black mbr-fonts-style display-4">-Lavar con la mano cuidadosamente con agua tibia y jabón neutro o antiséptico,&nbsp; &nbsp; &nbsp;no frotar con esponjas o similar.
-<div>-Secar con la toalla en forma de tampón.</div><div>-Aplicar la CREMA durante 15 días tres o cuatro veces al día.</div><div>-Al 4 o 5 día empezara el tatuaje como a pelarse y se cubrirá con un piel muy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;finita, es normal, no arrancar las contras</div></h5>
+       <div>-Secar con la toalla en forma de tampón.</div><div>-Aplicar la CREMA durante 15 días tres o cuatro veces al día.</div><div>-Al 4 o 5 día empezara el tatuaje como a  pelarse y se cubrirá con un piel muy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;finita, es normal, no arrancar las contras</div></h5>
           
 
 
@@ -872,64 +867,7 @@
 
 
 
-         <section class="social1 cid-smM9FIoamc" id="share1-o">
-    
-    
- 
-     
-
-    <div class="container">
-     
-         <div class="media-container-row">
-      
-         <div class="col-12">
-     
-    
-         <h3 class="mbr-section-title mb-3 align-center mbr-fonts-style display-2">
-          <strong>Síguenos&nbsp;en nuestras redes!</strong>
-  
-              </h3>
-          
-
-               <div>
-          
-
-
-          <div class="mbr-social-likes align-center">
-              
-          <span class="btn btn-social socicon-bg-facebook facebook m-2">
-              
-          <i class="socicon socicon-facebook"></i>
-          
-              </span>
-            
-
-            <span class="btn btn-social twitter socicon-bg-twitter m-2">
-               
-             <i class="socicon socicon-twitter"></i>
-           
-             </span>
-                        
-                    
-
-            <span class="btn btn-social pinterest socicon-bg-pinterest m-2">
-               
-             <i class="socicon socicon-pinterest"></i>
-              
-               </span>
-              
-           <span class="btn btn-social mailru socicon-bg-mail m-2">
-               
-
-             <i class="socicon socicon-mail"></i>
-             
-           </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+       
 
             <section style="background-color: #fff; 
                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; 
@@ -939,15 +877,15 @@
                      align-items: center;
                      display: flex;">
 
-           <a href="https://mobirise.site/d"
+           <a href=""
               style="flex: 1 1;
               height: 3rem;
               padding-left: 1rem;"></a>
 
          <p style="flex: 0 0 auto; 
             margin:0;
-            padding-right:1rem;">Made with Mobirise - 
-        <a href="https://mobirise.site/l" style="color:#aaa;">Try it</a>
+            padding-right:1rem;">Sanchez Meneses Amayrani - 
+        <a href="https:" style="color:#aaa;">Programacion Web</a>
         </p></section>
 
         <script src="assets/web/assets/jquery/jquery.min.js"></script> 
