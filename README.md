@@ -70,7 +70,7 @@
          
        <span class="navbar-logo">
             
-        <a href="https://mobiri.se">
+        <a href="">
                
          <img src="assets/images/w-121x80.jpeg" alt="" style="height: 5.4rem;">
           
