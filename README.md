@@ -907,7 +907,7 @@ desechable y debe estar esterilizado. Asimismo, el tatuador debe desinfectarse l
                      font-size:12px;
                      padding: 0;
                      align-items: center;
-                     <section style="background-color: #fff;  >
+                       >
 
            <a href=""
               style="flex: 1 1;
