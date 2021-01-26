@@ -902,15 +902,12 @@ desechable y debe estar esterilizado. Asimismo, el tatuador debe desinfectarse l
             <section style="background-color: #fff; 
                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 
 
-'Helvetica Neue', Arial, sans-serif; 
+                  'Helvetica Neue', Arial, sans-serif; 
                      color:#aaa; 
                      font-size:12px;
                      padding: 0;
                      align-items: center;
-                     <section style="background-color: #fff; 
-
-
-           >
+                     <section style="background-color: #fff;  >
 
            <a href=""
               style="flex: 1 1;
