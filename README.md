@@ -81,7 +81,7 @@
 
 
     <span class="navbar-caption-wrap">
-       <a class="navbar-caption text-black display-7" href="https://mobiri.se">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tu TATOO Creacion</a>
+       <a class="navbar-caption text-black display-7" href="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tu TATOO Creacion</a>
        </span>
  
 
@@ -175,17 +175,17 @@
  
                 <p class="mbr-text mbr-fonts-style display-7">ESPERANDO QUE CON NUESTRO SITIO WEB CONOZCAS UN POCO MAS DE NOSOTROS Y NUESTRA COMUNIDAD.<br>EN NUESTRA 
 
-PAGINA ESCONTRARA DISEÑOS Y DE IGUAL MANERA NOS PODRÁS CONTACTAR PARA NUESTROS TRABAJOS</p>
+      PAGINA ESCONTRARA DISEÑOS Y DE IGUAL MANERA NOS PODRÁS CONTACTAR PARA NUESTROS TRABAJOS</p>
          
 
 
        <div class="mbr-section-btn mt-3">
-   <a class="btn btn-success-outline display-4" href="https://mobirise.com"></a>
+     <a class="btn btn-success-outline display-4" href=""></a>
        </div>
             </div>
         </div>
     </div>
-</section>
+ </section>
 
 
 
@@ -234,7 +234,7 @@ PAGINA ESCONTRARA DISEÑOS Y DE IGUAL MANERA NOS PODRÁS CONTACTAR PARA NUESTROS
                <p class="mbr-text mbr-fonts-style display-7">
                         Este estilo es una de las mejores desempeñadas por nuestro tatuador JOSHEF ya que 
 
-puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
+           puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
        
 
 
@@ -244,13 +244,13 @@ puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
             </div>
         </div>
     </div>
-</section>
+     </section>
 
 
 
 
 
-<section class="image1 cid-smM6G8Ws2j" id="image1-l">
+       <section class="image1 cid-smM6G8Ws2j" id="image1-l">
     
 
   
@@ -291,7 +291,7 @@ puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
             </div>
         </div>
     </div>
-</section>
+       </section>
 
 
 
@@ -330,14 +330,14 @@ puede hacerte un diseño o sugerirte un diseño segun tus espectativas ...</p>
         
             <p class="mbr-text mbr-fonts-style display-7">Es un trabajo muy complejo pero mejor realizado por EMMa ya que su creatividad y buen desempeño hace un buen 
 
-diseño de ello</p>
+      diseño de ello</p>
           
 
       </div>
             </div>
         </div>
     </div>
-</section>
+     </section>
 
 
 
@@ -411,9 +411,9 @@ con sus clientes (nada de emails) y que le encanta viajar para tatuar.</p>
               
           <p class="mbr-text mbr-fonts-style mt-3 display-7">Su estilo combina imágenes oscuras y tétricas con colores fuertes y llamativos, esto la hace distinta al 
 
-resto de los tatuadores convencionales. Su estilo se podría definir como el de un romanticismo post-apocalíptico , en el cual la carne muerta, el dolor, la sangre y el 
+      resto de los tatuadores convencionales. Su estilo se podría definir como el de un romanticismo post-apocalíptico , en el cual la carne muerta, el dolor, la sangre y el 
 
-dolor se funden con el amor y la pasión por el placer y el deseo.<br>
+       dolor se funden con el amor y la pasión por el placer y el deseo.<br>
                         </p>
       
 
@@ -448,9 +448,9 @@ dolor se funden con el amor y la pasión por el placer y el deseo.<br>
   
               <p class="mbr-text mbr-fonts-style mt-3 display-7">Vieja escuela tinta los diseños presentan una paleta de colores limitada pero sólida – generalmente 
 
-negro, verde, amarillo y rojo – uso en negrita de grueso tinta Linework y diseño simple. Incluso con los avances en tatuaje pistolas y agujas, la aplicación 
+       negro, verde, amarillo y rojo – uso en negrita de grueso tinta Linework y diseño simple. Incluso con los avances en tatuaje pistolas y agujas, la aplicación 
 
-tradicional es una forma audaz y reconocible tatuaje Arte</p>
+       tradicional es una forma audaz y reconocible tatuaje Arte</p>
          
 
 
@@ -721,12 +721,12 @@ desechable y debe estar esterilizado. Asimismo, el tatuador debe desinfectarse l
             
             <h5 class="icon-text mbr-black mbr-fonts-style display-4">-Lavar con la mano cuidadosamente con agua tibia y jabón neutro o antiséptico,&nbsp; &nbsp; 
 
-&nbsp;no frotar con esponjas o similar.
-<div>-Secar con la toalla en forma de tampón.</div><div>-Aplicar la CREMA durante 15 días tres o cuatro veces al 
+                     &nbsp;no frotar con esponjas o similar.
+      <div>-Secar con la toalla en forma de tampón.</div><div>-Aplicar la CREMA durante 15 días tres o cuatro veces al 
 
-día.</div><div>-Al 4 o 5 día empezara el tatuaje como a pelarse y se cubrirá con un piel muy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;finita, es normal, no arrancar las 
+          día.</div><div>-Al 4 o 5 día empezara el tatuaje como a pelarse y se cubrirá con un piel muy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;finita, es normal, no arrancar las 
 
-contras</div></h5>
+                  contras</div></h5>
           
 
 
@@ -736,7 +736,7 @@ contras</div></h5>
 
          <div class="item mbr-flex">
           
-          <div class="icon-box">
+                 <div class="icon-box">
                
          <span class="step-number mbr-fonts-style display-5">3</span>
           
@@ -748,7 +748,7 @@ contras</div></h5>
              
            <h5 class="icon-text mbr-black mbr-fonts-style display-4">-No te rasques<br>&nbsp;-no debes sumergirlo en agua hasta que se haya curado completamente<br>-
 
-Tampoco debes dejar tu tatuaje expuesto al sol<br>-Las tres primeras semanas evita que le dé el sol en su totalidad<br><br></h5>
+       Tampoco debes dejar tu tatuaje expuesto al sol<br>-Las tres primeras semanas evita que le dé el sol en su totalidad<br><br></h5>
          
 
            </div>
@@ -771,9 +771,9 @@ Tampoco debes dejar tu tatuaje expuesto al sol<br>-Las tres primeras semanas evi
              
            <h5 class="icon-text mbr-black mbr-fonts-style display-4">No ingerir bebidas alcohólicas durante 15 días<br>no ingerir carne procesada durante 15 
 
-días<br>Para acelerar el proceso de cicatrización de la piel alimentos más antioxidantes están: tomate, frutas rojas, frutas cítricas como naranja y acerola, y hierbas 
+        días<br>Para acelerar el proceso de cicatrización de la piel alimentos más antioxidantes están: tomate, frutas rojas, frutas cítricas como naranja y acerola, y hierbas 
 
-como ajo, cebolla y azafrán.<br><br><br></h5>
+      como ajo, cebolla y azafrán.<br><br><br></h5>
          
 
            </div>
@@ -788,8 +788,8 @@ como ajo, cebolla y azafrán.<br><br><br></h5>
         </div>
  
 
-   </div>
-</section>
+      </div>
+      </section>
 
 
 
@@ -889,33 +889,38 @@ como ajo, cebolla y azafrán.<br><br><br></h5>
       <div class="google-map">
      <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCt1265A4qvZy9HKUeA8J15AOC4SrCyZe4&amp;q=350 5th Ave, New York, 
 
-NY 10118" allowfullscreen=""></iframe>
+     NY 10118" allowfullscreen=""></iframe>
 
-</div>
+      </div>
             </div>
         </div>
     </div>
-</section>
+      </section>
 
 
 
             <section style="background-color: #fff; 
-                     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; 
+                     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 
+
+'Helvetica Neue', Arial, sans-serif; 
                      color:#aaa; 
                      font-size:12px;
                      padding: 0;
                      align-items: center;
-                     display: flex;">
+                     <section style="background-color: #fff; 
 
-           <a href="https://mobirise.site/d"
+
+           >
+
+           <a href=""
               style="flex: 1 1;
               height: 3rem;
               padding-left: 1rem;"></a>
 
          <p style="flex: 0 0 auto; 
             margin:0;
-            padding-right:1rem;">Sanchez Meneses Amayrani - 
-        <a href="" style="color:#aaa;">Programacion Web</a>
+            padding-right:1rem;">- 
+        <a href="https://mobirise.site/l" style="color:#aaa;"></a>
         </p></section>
 
         <script src="assets/web/assets/jquery/jquery.min.js"></script> 
